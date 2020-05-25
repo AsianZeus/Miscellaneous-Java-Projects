@@ -1,0 +1,5 @@
+If you are under a unix like operating system:
+javac -cp '.:jsoup-1.11.3.jar' AdvNotepad.java
+
+If you are under windows:
+javac -cp .;jsoup-1.11.3.jar AdvNotepad.java
